@@ -2,7 +2,7 @@
 
 **E-Commerce Application Project**
 
-**TASK OVERVIEW** 
+**OVERVIEW** 
 
 A newly formed clothing company are launching a website, create a Java application that represents the business logic highlighted below.
 The focus of this task is on the following Software principles:
@@ -40,6 +40,7 @@ Customer details required in an order are:
 - Full name
 - Address (house number, postcode and Country)
 --------------------------------
+**TASKS**
 - Create the application based off the above criteria.
 
 - Test application - I.e. simulate the creation of an order and pricing calculations.
