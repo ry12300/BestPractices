@@ -3,6 +3,7 @@
 E-Commerce Application Project
 
 TASK OVERVIEW 
+
 A newly formed clothing company are launching a website, create a Java application that represents the business logic highlighted below.
 The focus of this task is on the following Software principles:
 -	OOP
