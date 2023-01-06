@@ -1,6 +1,6 @@
-# OOP E-Commerce Kata
+# Object Orientated E-Commerce Kata
 
-**E-Commerce Application Project**
+**E-Commerce Application**
 
 **OVERVIEW** 
 
