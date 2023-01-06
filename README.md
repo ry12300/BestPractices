@@ -1,7 +1,5 @@
 # Object Orientated E-Commerce Kata
 
-**E-Commerce Application**
-
 **OVERVIEW** 
 
 A newly formed clothing company are launching their E-commerce website, create a Java application that represents the business logic highlighted in the below specification.
