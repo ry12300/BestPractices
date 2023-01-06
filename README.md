@@ -4,13 +4,10 @@
 
 **OVERVIEW** 
 
-A newly formed clothing company are launching a website, create a Java application that represents the business logic highlighted below.
+A newly formed clothing company are launching their E-commerce website, create a Java application that represents the business logic highlighted in the below specification.
 
-The focus of this task is on the following Software principles:
--	OOP
--	SOLID
--	DRY
--	YAGNI
+The focus of this task is on the following Software fundamentals: OOP, SOLID and DRY.
+
 ----------------------------------
 
 **DETAILS**
@@ -20,16 +17,17 @@ As the company is newly formed it is restricted to the following:
 -	 Brands: Adidas, Nike, Reebok
 -	 Colours: Red, Pink, Green
 
-- T-shirts can be short or long sleeve.
-- The Lace colour on shoes can be defined only once the shoes have been selected.
-- The price of each pair of shoes is 45.99 regardless of Brand/Colour.
-- The price of each T-Shirt is 18.99 regardless of Brand/Colour.
+More information: 
+
+- T-shirts can be either short or long sleeve.
+- The Lace colour on shoes can be defined only once the shoes have been selected
+- The price of each pair of shoes is 45.99 regardless of Brand/Colour
+- The price of each T-Shirt is 18.99 regardless of Brand/Colour or Sleeve length
+- Products can only be added to an Order one at a time
 
 ---------------------------------
 The company currently only operates in the UK and Australia. 
-
-Shipping costs for an order are based off the Country of the customer’s address.
-
+Shipping costs for an order are based off the Country in the Customer’s address.
 Shipping costs for each order are as follows:
 
 UK: 
@@ -40,9 +38,7 @@ Australia:
 -	 less than 3 items = £14.99
 -	 3 or more items = £19.99
 
-Note: Products can only be added to an Order one at a time.
-
-Customer details required in an order are: 
+Customer details required are: 
 - Full name
 - Address (house number, postcode and Country)
 
