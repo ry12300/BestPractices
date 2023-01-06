@@ -20,28 +20,27 @@ As the company is newly formed it is restricted to the following:
 -	 Brands: Adidas, Nike, Reebok
 -	 Colours: Red, Pink, Green
 
-
 - T-shirts can be short or long sleeve.
 - The Lace colour on shoes can be defined only once the shoes have been selected.
 - The price of each pair of shoes is 45.99 regardless of Brand/Colour.
 - The price of each T-Shirt is 18.99 regardless of Brand/Colour.
 
 ---------------------------------
-The company currently only operate in the UK and Australia. 
+The company currently only operates in the UK and Australia. 
 
 Shipping costs for an order are based off the Country of the customer’s address.
 
 Shipping costs for each order are as follows:
 
 UK: 
--	less than 3 items = 4.99
--	3 or more items = 9.99
+-	less than 3 items = £4.99
+-	3 or more items = £9.99
 
 Australia:
--	 less than 3 items = 14.99
--	 3 or more items = 19.99
+-	 less than 3 items = £14.99
+-	 3 or more items = £19.99
 
-Note: Products can only be added to the Order one at a time.
+Note: Products can only be added to an Order one at a time.
 
 Customer details required in an order are: 
 - Full name
