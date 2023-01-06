@@ -49,8 +49,6 @@ Customer details required in an order are:
 
 --------------------------------
 **TASKS**
-- Create the application based off the above criteria.
+- Create the application based off the above criteria. Ensure to follow SOLID and OOP principles in your design.
 
-- Test application - I.e. simulate the creation of an order and pricing calculations.
-
-- Ensure that the total order price (products + shipping) is as expected.
+- Write unit tests to simulate the creation of an order and pricing calculations. Ensure that the total order price (products + shipping) is as expected.
