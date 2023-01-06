@@ -1,8 +1,8 @@
 # OOP E-Commerce Kata
 
-E-Commerce Application Project
+**E-Commerce Application Project**
 
-TASK OVERVIEW 
+**TASK OVERVIEW** 
 
 A newly formed clothing company are launching a website, create a Java application that represents the business logic highlighted below.
 The focus of this task is on the following Software principles:
@@ -11,7 +11,7 @@ The focus of this task is on the following Software principles:
 -	DRY
 -	YAGNI
 ----------------------------------
-DETAILS
+**DETAILS**
 
 As the company is newly formed it is restricted to the following:
 -	 Item Types: T-shirts and Shoes
